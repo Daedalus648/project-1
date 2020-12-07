@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    display: inline-block;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+#pic {
+    filter: grayscale(100%);
+    border-radius: 50%;
+    border: 10px solid white;
+    width: 300px;
+    height: auto;
+}
+
+#border {
+    background-color: gray;
+    padding: 10px;
+    color: #f8f8f8;
+    padding-top: 70px;
+}
+
+#contact {
+    padding-left: 15px;
+}
+
+#header {
+    line-height: 20%;
+    margin-top: 60px;
+}
+
+#icon {
+   color: #11a9f3;
+}
+
+#skill {
+    text-align: left;
+}
+
+#title {
+    font-size: 90px;
+}
+
+#rating {
+    float: right;
+    padding-bottom: 16px;
+}
+
+#proficiency {
+    float: right;
+}
+
+.blue {
+    color: #11a9f3;
+}
+
+.bold {
+    font-weight: bold;
+}
